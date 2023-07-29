@@ -5,7 +5,7 @@ GET http://localhost:3001/movies/
 
 # API-2
 POST http://localhost:3001/movies/
-content-Type:application/json
+Content-Type:application/json
 
 {
   "directorId": 6,
